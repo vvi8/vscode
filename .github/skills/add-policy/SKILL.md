@@ -1,6 +1,6 @@
 ---
 name: add-policy
-description: Use when adding, modifying, or reviewing VS Code configuration policies. Covers the full policy lifecycle from registration to export to platform-specific artifacts. Run on ANY change that adds a `policy:` field to a configuration property.
+load
 ---
 
 # Adding a Configuration Policy
